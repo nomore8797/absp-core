@@ -10,6 +10,8 @@ The mechanism operates as an active coordination layer that dynamically directs 
 - strategic trajectories,
 - and architectural constraints.
 
+The mechanism may be implemented using AI-assisted coordination systems, distributed reasoning agents, or hybrid human-AI interaction models.   
+
 ## Functional Role
 
 The Curator-Router manages:
