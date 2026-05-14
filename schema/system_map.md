@@ -31,3 +31,20 @@
                 | Distributed System   |
                 | Adaptive Components  |
                 +----------------------+
+
+
+Architectural Logic
+
+Professor Protocol defines collaborative reasoning and architectural evolution.
+ABSP computes adaptive strategic trajectories.
+Equilibrium preserves dynamic system stability.
+Curator-Router coordinates flows and interaction pathways.
+Distributed components execute adaptive system behavior.
+
+System Objective
+
+The architecture is designed to support:
+distributed adaptability,
+controlled evolution,
+equilibrium-based stabilization,
+and human-AI collaborative architectural development.
